@@ -31,7 +31,7 @@ Ensure you have the following installed on your system:
 1. Clone the repository:
    ```bash
    git clone https://github.com/Syntcs/tiktok-live-downloader
-   cd tiktok_livestream_downloader
+   cd tiktok_live_downloader
 
 2. Make the script executable:
    ```bash
