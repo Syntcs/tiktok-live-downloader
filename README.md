@@ -30,16 +30,16 @@ Ensure you have the following installed on your system:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/syntcs/tiktok-live-recorder.git
-   cd tiktok-live-recorder
+   git clone https://github.com/syntcs/tiktok_livestream_downloader.git
+   cd tiktok_livestream_downloader
 
 2. Make the script executable:
    ```bash
-   chmod +x tiktok_live_recorder.sh
+   chmod +x tiktok_livestream_downloader.sh
 
 3. Run the script:
    ```bash
-   ./tiktok_live_recorder.sh
+   ./tiktok_livestream_downloader.sh
 
 4. Enter the TikTok username when prompted.
    
